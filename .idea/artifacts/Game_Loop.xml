@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="Game_Loop">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_Loop</output-path>
+    <root id="root">
+      <element id="module-output" name="Game Loop" />
+    </root>
+  </artifact>
+</component>

@@ -63,7 +63,7 @@ public class GameLogic implements KeyListener{
                 badAwesomeDude.setY((badAwesomeDude.getY()) + 2);
             }
             if(Math.abs(superAwesomeDude.getX()-badAwesomeDude.getX()) < 10  && Math.abs(superAwesomeDude.getY()-badAwesomeDude.getY()) < 10){
-                JOptionPane.showMessageDialog(null, "You Loose!");
+                JOptionPane.showMessageDialog(null, "You Lose!");
                 System.exit(0);
             }
         }
